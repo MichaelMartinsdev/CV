@@ -1,19 +1,28 @@
 body{
     background-color: #EAF6F6;
 }
+
 hr{
     background-color: #EAF6F6;
     border-style: dotted none none;
     width: 50%;
     border-width: 5px;
     border-color: grey;
+    margin: 20px auto;
 }
+
 h1{
     color: #66BFBF;
 }
+
 h3{
     color: #66BFBF;
 }
-a{
-   color: #66BFBF; 
+
+a {
+    color: #66BFBF;
+    text-decoration: none;
+}
+a:hover{
+   color: #3a5c5c; 
 }
